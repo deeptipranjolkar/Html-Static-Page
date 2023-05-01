@@ -1,0 +1,331 @@
+.class1 {
+    position: absolute;
+    width: 562px;
+    height: 108px;
+    left: 136px;
+    top: 83px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    /* or 54px */
+
+
+    color: #282828;
+
+}
+
+.class2 {
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 136px;
+    top: 219px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+    display: flex;
+    align-items: center;
+
+    color: #484848;
+}
+
+.class3 {
+    /*email*/
+    /* box-sizing: border-box; */
+
+    position: absolute;
+    width: 344px;
+    height: 64px;
+    left: 136px;
+    top: 411px;
+
+    background: #FFFFFF;
+    border: 4px solid #000000;
+    border-radius: 8px;
+    font-size: large;
+    /* Your e-mail address */
+
+
+
+}
+
+.class4 {
+    position: absolute;
+    width: 1440px;
+    height: 100vh;
+    left: 0px;
+    top: -1px;
+
+    /* The brown */
+
+    background: #FFCD9E;
+}
+
+.class5 {
+    position: absolute;
+    width: 227px;
+    height: 81px;
+    left: 136px;
+    top: 315px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 32px */
+
+    display: flex;
+    align-items: center;
+
+    color: #282828;
+}
+
+.class6 {
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    left: 134px;
+    top: 479px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.class7 {
+    position: absolute;
+    left: 57.98%;
+    right: 15.58%;
+    top: 12.55%;
+    bottom: 12.51%;
+}
+
+.class9 {
+    position: absolute;
+    width: 1440px;
+    height: 298px;
+    left: 0px;
+    top: 592px;
+
+    /* The Black  */
+
+    background: #282828;
+}
+
+.class10 {
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    left: 191px;
+    top: 654px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+
+    color: #FFFFFF;
+
+}
+
+.class11 {
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    left: 191px;
+    top: 690px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+
+    color: #FFFFFF;
+
+}
+
+.class12 {
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    left: 191px;
+    top: 726px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+
+    color: #FFFFFF;
+
+
+}
+
+.class13 {
+    position: absolute;
+    width: 220px;
+    height: 36px;
+    left: 191px;
+    top: 762px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+
+    color: #FFFFFF;
+
+
+}
+
+.class14 {
+    position: absolute;
+    width: 236px;
+    height: 36px;
+    left: 191px;
+    top: 798px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+
+    color: #FFFFFF;
+
+}
+
+.class15 {
+    /* Dweep.io */
+
+
+    position: absolute;
+    width: 148px;
+    height: 36px;
+    left: 1099px;
+    top: 654px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+    text-align: right;
+
+    color: #FFFFFF;
+
+}
+
+.class16 {
+    /* Made with love in India */
+
+
+    position: absolute;
+    width: 232px;
+    height: 36px;
+    left: 1015px;
+    top: 690px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+    text-align: right;
+
+    color: #FFFFFF;
+
+}
+
+.class17{
+    position: absolute;
+    width: 216px;
+    height: 64px;
+    left: 496px;
+    top: 411px;
+    font-size: 20px;
+  
+    background: #282828;
+    border-radius: 8px;
+    color: #ffffff;
+}
+.class18{
+    /* hello@dweep.io */
+
+
+position: absolute;
+width: 232px;
+height: 36px;
+left: 1015px;
+top: 798px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+text-align: right;
+
+color: #FFFFFF;
+
+}
+.class19{
+    /* LinkedinLogo */
+
+
+position: absolute;
+width: 29.41px;
+height: 27.42px;
+left: 1179px;
+top: 728.58px;
+
+}
+.class20{
+    /* InstagramLogo */
+
+
+position: absolute;
+width: 29.41px;
+height: 27.42px;
+left: 1217.59px;
+top: 728.58px;
+
+}
+
